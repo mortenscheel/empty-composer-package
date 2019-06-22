@@ -1,0 +1,13 @@
+{
+    "name": "mortenscheel/empty-composer-package",
+    "description": "Empty package to facilitate fast testing of composer install through vcs-repository",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Morten",
+            "email": "morten@mortenscheel.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
